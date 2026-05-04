@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# PyCharm
+.idea/
+
+# 数据集（生成的假数据不用进版本控制）
+data/
+
+# 模型权重
+*.pth
+*.pt
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 环境
+.env
