@@ -1,0 +1,6 @@
+path: /home/nefelibata/autonomous_driving/autonomous-perception-roadmap/day05_yolo_detection/data/detection
+train: images/train
+val: images/val
+
+nc: 10
+names: ['airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck']
